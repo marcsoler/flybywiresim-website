@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eb51da8b623ffe03e2d0c3782361bed",
+    "revision": "79880b48f8527f80464b2ef4849b97a1",
     "url": "/flybywiresim-website/index.html"
   },
   {
