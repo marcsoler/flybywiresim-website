@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flybywiresim-website/precache-manifest.f3fe09a921315d181392fffff40e8b85.js"
+  "/flybywiresim-website/precache-manifest.2ff07f1332d843c5e6be1507ab8a1400.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e4379827c4980247142c8b6862c00d1",
+    "revision": "33c0c095ddac2d51fb38642673fb833b",
     "url": "/flybywiresim-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flybywiresim-website/static/css/2.63ba52ef.chunk.css"
   },
   {
-    "revision": "465fa4ce43709902b880",
+    "revision": "5a4c6071183ec3dde50c",
     "url": "/flybywiresim-website/static/css/main.aed65fc8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flybywiresim-website/static/js/2.c04e39c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "465fa4ce43709902b880",
-    "url": "/flybywiresim-website/static/js/main.4fd49cb3.chunk.js"
+    "revision": "5a4c6071183ec3dde50c",
+    "url": "/flybywiresim-website/static/js/main.655eb211.chunk.js"
   },
   {
     "revision": "2633ccca1b534e510a3d",
