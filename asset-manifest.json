@@ -1,27 +1,33 @@
 {
   "files": {
     "main.css": "/flybywiresim-website/static/css/main.aed65fc8.chunk.css",
-    "main.js": "/flybywiresim-website/static/js/main.fd25b637.chunk.js",
-    "main.js.map": "/flybywiresim-website/static/js/main.fd25b637.chunk.js.map",
+    "main.js": "/flybywiresim-website/static/js/main.4fd49cb3.chunk.js",
+    "main.js.map": "/flybywiresim-website/static/js/main.4fd49cb3.chunk.js.map",
     "runtime-main.js": "/flybywiresim-website/static/js/runtime-main.0ceb8d5d.js",
     "runtime-main.js.map": "/flybywiresim-website/static/js/runtime-main.0ceb8d5d.js.map",
     "static/css/2.63ba52ef.chunk.css": "/flybywiresim-website/static/css/2.63ba52ef.chunk.css",
-    "static/js/2.da7a2536.chunk.js": "/flybywiresim-website/static/js/2.da7a2536.chunk.js",
-    "static/js/2.da7a2536.chunk.js.map": "/flybywiresim-website/static/js/2.da7a2536.chunk.js.map",
+    "static/js/2.c04e39c4.chunk.js": "/flybywiresim-website/static/js/2.c04e39c4.chunk.js",
+    "static/js/2.c04e39c4.chunk.js.map": "/flybywiresim-website/static/js/2.c04e39c4.chunk.js.map",
     "index.html": "/flybywiresim-website/index.html",
-    "precache-manifest.f9699fe54bf26fc4c9fed916e1777963.js": "/flybywiresim-website/precache-manifest.f9699fe54bf26fc4c9fed916e1777963.js",
+    "precache-manifest.f3fe09a921315d181392fffff40e8b85.js": "/flybywiresim-website/precache-manifest.f3fe09a921315d181392fffff40e8b85.js",
     "service-worker.js": "/flybywiresim-website/service-worker.js",
     "static/css/2.63ba52ef.chunk.css.map": "/flybywiresim-website/static/css/2.63ba52ef.chunk.css.map",
     "static/css/main.aed65fc8.chunk.css.map": "/flybywiresim-website/static/css/main.aed65fc8.chunk.css.map",
-    "static/js/2.da7a2536.chunk.js.LICENSE.txt": "/flybywiresim-website/static/js/2.da7a2536.chunk.js.LICENSE.txt",
+    "static/js/2.c04e39c4.chunk.js.LICENSE.txt": "/flybywiresim-website/static/js/2.c04e39c4.chunk.js.LICENSE.txt",
+    "static/media/Community_built-2.png": "/flybywiresim-website/static/media/Community_built-2.f2451f72.png",
+    "static/media/cockpit-1.png": "/flybywiresim-website/static/media/cockpit-1.2847fcb2.png",
+    "static/media/cockpit-2.png": "/flybywiresim-website/static/media/cockpit-2.e9276f4b.png",
+    "static/media/flyby-2.png": "/flybywiresim-website/static/media/flyby-2.c89deba9.png",
+    "static/media/flyby-3.png": "/flybywiresim-website/static/media/flyby-3.d9361550.png",
+    "static/media/flybywire-huge.png": "/flybywiresim-website/static/media/flybywire-huge.e19f3e4e.png",
     "static/media/logo_wide.png": "/flybywiresim-website/static/media/logo_wide.dc6d8942.png",
     "static/media/logo_wide_transparent.png": "/flybywiresim-website/static/media/logo_wide_transparent.0fd7ed71.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ceb8d5d.js",
     "static/css/2.63ba52ef.chunk.css",
-    "static/js/2.da7a2536.chunk.js",
+    "static/js/2.c04e39c4.chunk.js",
     "static/css/main.aed65fc8.chunk.css",
-    "static/js/main.fd25b637.chunk.js"
+    "static/js/main.4fd49cb3.chunk.js"
   ]
 }
