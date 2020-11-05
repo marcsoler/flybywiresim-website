@@ -1,5 +1,20 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@font-face {
+    font-family: "Aileron-Thin";
+    src: url("/public/fonts/aileron.thin.otf");
+}
+
+@font-face {
+    font-family: "Aileron-Regular";
+    src: url("/public/fonts/aileron.regular.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Aileron-Heavy";
+    src: url("/public/fonts/aileron.heavy.otf");
+    font-weight: bold;
+}
 
 // Variables
 @import 'variables';
