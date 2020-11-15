@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers;
+use App\Http\Controllers\Site\SiteController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,4 +14,4 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('/', 'LandingController@index')->name('landing.index');
+Route::get('/', [SiteController::class, 'index'])->name('site');

@@ -21,3 +21,42 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+// Custom Classes
+.fbw-b-bg{
+    background-color: $fbw-b;
+}
+.fbw-b-drk-bg{
+    background-color: $fbw-b-darker;
+}
+.fbw-db-bg{
+    background-color: $fbw-db;
+}
+.fbw-g-bg{
+    background-color: $fbw-g;
+}
+.fbw-gb-bg{
+    background-color: $fbw-gb;
+}
+.fbw-b-text{
+    color: $fbw-b;
+}
+.fbw-db-text{
+    color: $fbw-db;
+}
+.fbw-g-text{
+    color: $fbw-g;
+}
+.font-regular{
+    font-family: 'Aileron-Regular';
+}
+.font-heavy{
+    font-family: 'Aileron-Heavy';
+}
+
+
+.card-rounded{
+    border-radius: 25px;
+}
+// Imports
+@import './site/site.scss';

@@ -14,3 +14,4 @@ yarn-error.log
 public/.htaccess
 index.php
 server.php
+dist/*

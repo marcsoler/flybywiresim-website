@@ -1,7 +1,26 @@
 // Body
-$body-bg: #2d3436;
+$body-bg: #131313;
+
+// Palette
+$fbw-b: #00c2cb;
+$fbw-b-darker: #06a5ad;
+$fbw-db: #6399ae;
+$fbw-g: #545454;
+$fbw-gb: #b4e8ea;
+
+$fbw-danger: #e74c3c;
+$fbw-warning: #f1c40f;
 
 // Typography
 $font-family-sans-serif: 'Aileron-Thin';
 $font-size-base: 1rem;
 $line-height-base: 1.6;
+
+// Nav Properties
+$dropdown-link-hover-color: $fbw-b;
+$btn-border-radius-lg: 0;
+
+// Bootstrap Overides
+$danger: $fbw-danger;
+$warning: $fbw-warning;
+$info: $fbw-b;

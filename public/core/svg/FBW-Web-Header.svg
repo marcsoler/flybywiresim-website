@@ -13,7 +13,10 @@
    viewBox="0 0 1814 469"
    version="1.1"
    sodipodi:docname="FBW-Web-Header.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="N:\!Mod REPOs\fbw-branding\png\FBW-Web-Header.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,13 +44,13 @@
      inkscape:window-height="1017"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="0.79991455"
-     inkscape:cx="1054.7488"
-     inkscape:cy="338.90377"
+     inkscape:zoom="0.565625"
+     inkscape:cx="894.71232"
+     inkscape:cy="285.84535"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Contents"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      inkscape:lockguides="true">
     <sodipodi:guide
@@ -76,28 +80,27 @@
      inkscape:label="Light Blue">
     <path
        style="fill:#b4e8ea;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0,373.03867 C 0,373.03867 1468.8443,310.90468 1814,0 V 357.61878 L 0,469 Z"
+       d="M 0,469 C 0,469 1468.8443,310.90468 1814,0 v 357.61878 15.41989 z"
+       id="path1458-0-4-8"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#6399ae;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,469 C 0,469 1468.8443,406.86601 1814,95.96133 V 453.58011 469 Z"
        id="path1458-0-4"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00c2cb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,469 c 0,0 1468.8443,33.82734 1814,-277.07734 V 469 Z"
+       id="path1458-0-4-4"
+       sodipodi:nodetypes="cccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Dark Blue"
-     style="display:inline">
-    <path
-       style="fill:#6399ae;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,373.03867 c 0,0 1162.9879,2.15055 1814,-259.25137 V 409.52763 H 1.84534 Z"
-       id="path1458-0"
-       sodipodi:nodetypes="ccccc" />
-  </g>
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Blue" />
-  <path
-     style="fill:#00c2cb;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 0,373.03867 c 0,0 1200.115,72.23065 1814,-178.56353 V 469 H 0 Z"
-     id="path1458"
-     sodipodi:nodetypes="ccccc" />
 </svg>
