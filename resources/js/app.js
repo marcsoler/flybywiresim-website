@@ -13,3 +13,7 @@ require('./bootstrap');
  */
 
 require('./components/Snow');
+
+require('./components/Map');
+
+require('./components/Counter');

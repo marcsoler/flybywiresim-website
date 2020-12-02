@@ -13,11 +13,13 @@
     </head>
     <body>
         <div class="page_content">
-            {{-- <div id="_snow"></div> --}}
+            <div id="_snow"></div>
             @include('components.errors')
+            @include('site.nav')
             @yield('content', "No content to display")
+            @include('components.footer')
             {{-- <div class="fixed-bottom m-0 p-1 bg-danger text-white text-center">
-                You are in a NON-PRODUCTION environment.
+                You are in a NON-PRODUCTION environment. VER: {{env('VERSION_NUM')}}. {{ $time }}
             </div> --}}
         </div>
     </body>

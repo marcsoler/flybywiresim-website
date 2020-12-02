@@ -21,6 +21,12 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+// FontAwesome
+@import '/node_modules/@fortawesome/fontawesome-free/css/all.css';
+// Material Icons
+@import '/node_modules/material-design-icons/iconfont/material-icons.css';
+// AnimateCSS
+@import '/node_modules/animate.css/animate.css';
 
 // Custom Classes
 .fbw-b-bg{
@@ -32,11 +38,14 @@
 .fbw-db-bg{
     background-color: $fbw-db;
 }
+.fbw-gb-bg{
+    background-color: $fbw-gb;
+}
 .fbw-g-bg{
     background-color: $fbw-g;
 }
-.fbw-gb-bg{
-    background-color: $fbw-gb;
+.fbw-dg-bg{
+    background-color: $fbw-dg;
 }
 .fbw-b-text{
     color: $fbw-b;
@@ -46,6 +55,9 @@
 }
 .fbw-g-text{
     color: $fbw-g;
+}
+.fbw-gb-text{
+    color: $fbw-gb;
 }
 .font-regular{
     font-family: 'Aileron-Regular';
