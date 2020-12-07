@@ -131,13 +131,23 @@
 <section id="stats">
     <div class="py-4 p-5 container d-md-flex text-center text-white">
         <div class="container">
-            <h1 id="download-count" class="fbw-b-text" data-number="{{$release['assets'][0]['download_count']}}">
-            </h1>
+            @if ($release['assets'][0]['download_count'] != null)
+                <h1 id="download-count" class="fbw-b-text" data-number="{{$release['assets'][0]['download_count']}}">
+                </h1>
+                @else
+                <h1 id="download-count" class="fbw-b-text" data-number="165000">
+                </h1>
+            @endif
             <h5>Downloads</h5>
         </div>
         <div class="container">
-            <h1 id="contributor-count" class="fbw-b-text" data-number="{{$contributors}}">
-            </h1>
+            @if ($contributors != null)
+                <h1 id="contributor-count" class="fbw-b-text" data-number="{{$contributors}}">
+                </h1>
+                @else
+                <h1 id="contributor-count" class="fbw-b-text" data-number="100">
+                </h1>
+            @endif
             <h5>Contributors</h5>
         </div>
         <div class="container">
@@ -157,29 +167,28 @@
 
 </section>
 
-{{-- <section id="partners" class="fbw-dg-bg">
+<section id="partners" class="fbw-dg-bg">
     <div class="py-4 p-5 container text-center text-white">
         <div class="container">
             <h1 class="font-regular"><span class="text-light fbw-b-bg p-2 pb-3 m-2 rounded-lg">Partners</span></h1>
-
-            <div class="d-flex my-5 pt-2">
-                <div class="container">
-                    <img src="{{ asset('core/partners/sim4flight.png')}}" alt="">
-                    <h4>sim4flight</h4>
-                </div>
-                <div class="container">
-                    <img src="{{asset('core/partners/fsnews-full.png')}}" alt="">
-                </div>
-                <div class="container">
-                    <h5>placeholder</h5>
-                </div>
+        </div>
+        
+        <div class="d-block d-md-flex my-5 pt-2">
+            <div class="container">
+                <img src="{{ asset('core/partners/fsnews-full.png') }}" alt="">
             </div>
+            <div class="container col-8 col-md-2">
+                <img src="{{ asset('core/partners/sim4flight.png') }}" alt="">
             </div>
             <div class="container">
-                <img src="{{ asset('core/partners/yourcontrols.png') }}" alt="">
+                <img src="{{ asset('core/partners/flightsimto.png') }}" alt="">
             </div>
         </div>
+
+        <div class="container">
+            <img src="{{ asset('core/partners/yourcontrols-white.png') }}" alt="">
+        </div>
     </div>
-</section> --}}
+</section>
 
 @endsection

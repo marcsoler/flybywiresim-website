@@ -17,3 +17,5 @@ require('./components/Snow');
 require('./components/Map');
 
 require('./components/Counter');
+
+require('./components/Slider');

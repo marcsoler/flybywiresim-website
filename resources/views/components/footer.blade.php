@@ -5,11 +5,11 @@
       <small class="d-block mb-3 text-muted">&copy; {{ config('app.cr') }}</small>
       </div>
       <div class="col-6 col-md">
-        <h5>Section</h5>
+        <h5>Quick Links</h5>
         <ul class="list-unstyled text-small">
-          <li><a href="#">Cool stuff</a></li>
-          <li><a href="#">Random feature</a></li>
-          <li><a href="#">Team feature</a></li>
+          <li><a href="#">Download</a></li>
+          <li><a href="#">Ground School</a></li>
+          <li><a href="#">About</a></li>
           <li><a href="#">Stuff for developers</a></li>
           <li><a href="#">Another one</a></li>
           <li><a href="#">Last time</a></li>

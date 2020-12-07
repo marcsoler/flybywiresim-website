@@ -27,7 +27,8 @@
 @import '/node_modules/material-design-icons/iconfont/material-icons.css';
 // AnimateCSS
 @import '/node_modules/animate.css/animate.css';
-
+// Imports
+@import './site/site.scss';
 // Custom Classes
 .fbw-b-bg{
     background-color: $fbw-b;
@@ -70,5 +71,3 @@
 .card-rounded{
     border-radius: 25px;
 }
-// Imports
-@import './site/site.scss';

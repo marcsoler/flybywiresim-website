@@ -31,6 +31,7 @@
         "@sevenschan/react-count-to": "^1.0.2",
         "animate.css": "^4.1.1",
         "material-design-icons": "^3.0.1",
+        "react-before-after-slider": "^1.0.4",
         "react-snowstorm": "0.0.3"
     }
 }

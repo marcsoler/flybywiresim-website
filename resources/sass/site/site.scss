@@ -30,7 +30,7 @@ section#index{
         }
         p {
             width: 60%;
-            font-size: 1.2rem;
+            font-size: 1.4rem;
         }
     }
 
@@ -98,8 +98,7 @@ section#stats{
 
 section#partners{
     img{
-        height: 100px;
-        object-fit: contain;
+        width: 100%;
         // filter: grayscale(1);
     }
 }
